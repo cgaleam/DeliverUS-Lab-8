@@ -288,3 +288,6 @@ You will need to include the `EditProductScreen` in the `RestaurantsStack.js` as
 ```
 
 Remember that the backend does not expect to receive the restaurantId of the product, since you cannot change the product from one restaurant to another.
+Exams github solved: 
+https://github.com/IISSI2-IS-2022-2023/Parciales
+https://github.com/IISSI2-IS-profs/DeliverUS-Owner-Monorepo-Enunciados-y-Soluciones
